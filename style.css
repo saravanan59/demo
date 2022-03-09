@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#image1{    
+    height: 10vh;
+    padding-top: 10px;
+}
+#h{
+    width: 80vw;
+    margin: auto;
+}
+#t1{
+    padding-left: 20px;
+    font-size: 40px;
+}
+#title{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+#head{
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;  
+}
+nav li{
+    display: inline-block;  
+    padding-right: 40px; 
+    padding-top: 5px; 
+}
+#nav{
+    display: flex;        
+}
+#b1{
+    padding: 5px 20px;
+    border-radius: 15px;
+    font-weight: bold;
+    border: none;
+    background-color: greenyellow;
+}
+#b1:hover{
+    background-color: rgb(241, 97, 97);
+}
+#bod{
+    height: 90vh;
+    background-image:url(s2.jpg);
+    background-size: cover;
+    background-position:center ;
+}
+#form{
+    position: absolute;
+    top:50%;
+    left: 45%;
+   
+}
+#te{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(245, 160, 118);
+}
+.f1{
+    padding: 5px 10px;   
+    margin-top: 10px;
+}
+#bb1{
+    margin-left: 50px;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    background-color: aqua;
+}
+.g{
+    border: none;
+    border-radius: 15px;
+    padding: 5px;
+}
+#bb1:hover{
+    background-color: rgb(252, 145, 6);
+}
+#bc{
+    width: 70%;
+    margin: auto;
+}
+.body2{
+   
+    margin-top: 20px;
+    display: flex;
+    
+}
+#ast{
+    width: 550px;
+    height: 400px;
+}
+.asp{
+    color: rgb(153, 152, 152);
+    padding: 60px 30px;
+    line-height: 40px;
+}
+#fer{
+    width: 700px;
+    height: 400px;
+}
+footer{
+    background-color: rgb(83, 83, 83);
+    width: 100vw;
+    height: 30vh;
+}
+li a{
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+#f12{
+    width: 70%;
+    margin: auto;
+    padding-top: 20px;
+}
+#ff{
+   margin: 20px 45%;
+}
+#bu{
+    margin: 10px 60px;
+    border-radius: 15px;
+    border: none;
+    padding: 5px;
+    background-color: rgb(6, 184, 6);
+    font-weight: bold;
+}
+#sear{
+    border-radius: 15px;
+    border: none;
+    padding: 5px;
+}
+#bu:hover{
+    background-color: rgb(202, 247, 3);
+}
+a{
+    text-decoration: none;
+    color: rgb(114, 115, 116);
+}
